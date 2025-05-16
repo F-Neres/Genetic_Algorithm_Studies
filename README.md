@@ -35,8 +35,9 @@ Esses dataframes são usados para deteminar os pontos no gráfico, mostrando sua
 
 ## Estrutura do repositório
 
-- `function_genetic_solution/`
+- `pilot-function_genetic_solution/`
   - `function_genetic_solution.ipynb` - Notebook com implementação do algoritmo genético
+  - `quadratic_function_3d.gif` - Gráfico animado, demonstrando os candidatos alcançando o topo da função
 
 ## Próximos passos
 
